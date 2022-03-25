@@ -9,7 +9,7 @@ print('Client running at {}\n\n'.format(s.getsockname()))
 
 while True:
     # Input and prepare message to send
-    message = input('Input message to send: ')
+    message = input('Input equation to send: ')
     
     # if message is not init case
     if (message != 'init'):
