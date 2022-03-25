@@ -39,7 +39,9 @@ def helpHandler():
         "Subtraction (-)\n"+
         "Multiplication (*, X)\n"+
         "Division (/)\n"+
-        "Exponentials (^)\n\n"
+        "Exponentials (^)\n" + 
+        "Modulo (%)\n"+
+        "Scientific Notaion (e, E)\n\n"
     )
 
 def main ():
